@@ -7,8 +7,6 @@ A static, multilingual landing page for RepChime. The site is prepared for `http
 - English: `/`
 - German: `/de/`
 - French: `/fr/`
-- French (Canada): `/fr-ca/`
-- Spanish (Spain): `/es/`
-- Spanish (Mexico): `/es-mx/`
+- Spanish (Latin America): `/latam/`
 
 The legal pages remain in the separate `fitreps-legal` repository and are linked from every locale.
