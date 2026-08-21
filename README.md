@@ -8,5 +8,14 @@ A static, multilingual landing page for RepChime. The site is prepared for `http
 - German: `/de/`
 - French: `/fr/`
 - Spanish (Latin America): `/latam/`
+- Portuguese (Brazil): `/pt-br/`
+- Japanese: `/ja/`
+- Korean: `/ko/`
+- Simplified Chinese: `/zh-hans/`
+- Traditional Chinese: `/zh-hant/`
 
-The legal pages remain in the separate `fitreps-legal` repository and are linked from every locale.
+## Legal pages
+
+- RepChime Terms of Service: `/legals/term-of-service/`
+- Privacy Policy: `/legals/privacy/`
+- Terms of Use: Apple's Standard EULA

@@ -4,8 +4,9 @@ RepChime is an iPhone fitness utility that combines a configurable HIIT timer wi
 
 Official website: https://repchime.app/
 App Store: https://apps.apple.com/app/id1441675623
-Terms of Use: https://valnikodeveloper.github.io/fitreps-legal/terms.html
-Privacy Policy: https://valnikodeveloper.github.io/fitreps-legal/privacy.html
+Terms of Service: https://repchime.app/legals/term-of-service/
+Terms of Use (Apple Standard EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://repchime.app/legals/privacy/
 
 ## Main capabilities
 
@@ -13,7 +14,7 @@ Privacy Policy: https://valnikodeveloper.github.io/fitreps-legal/privacy.html
 - Automatic repetition counting with iPhone motion sensors and a front-camera mode for push-ups.
 - Saved Timer and Counter presets.
 - Ladder progression for time or repetition goals.
-- Optional spoken guidance, Live Activities, and other RepChime Pro features.
+- Optional spoken guidance, timer recovery after returning to the app, scheduled phase notifications, and other RepChime Pro features.
 
 ## Supported exercises
 
@@ -21,4 +22,4 @@ Push-ups, sit-ups, pull-ups, and squats.
 
 ## Languages on this website
 
-English, German, French, Spanish (Latin America), Japanese, Korean, Simplified Chinese, and Traditional Chinese.
+English, German, French, Spanish (Latin America), Portuguese (Brazil), Japanese, Korean, Simplified Chinese, and Traditional Chinese.
