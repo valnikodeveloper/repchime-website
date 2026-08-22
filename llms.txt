@@ -20,6 +20,22 @@ Privacy Policy: https://repchime.app/legals/privacy/
 
 Push-ups, sit-ups, pull-ups, and squats.
 
+## On-device operation and privacy
+
+- No RepChime account is required.
+- Workout presets and settings are designed to remain on the device.
+- Camera and motion-sensor input is processed locally for supported repetition-counting features.
+- Apple processes App Store purchases. The Privacy Policy describes the limited purchase and subscription event information that may be received separately from the app.
+
+## Availability
+
+- Available for iPhone.
+- Free to download, with additional functionality available through optional RepChime Pro subscriptions or a lifetime purchase.
+
 ## Languages on this website
 
 English, German, French, Spanish (Latin America), Portuguese (Brazil), Japanese, Korean, Simplified Chinese, and Traditional Chinese.
+
+## Safety
+
+RepChime is a fitness utility, not a medical device, coach, or substitute for professional advice. Users should exercise with proper form and stop if they experience pain, dizziness, or discomfort.
